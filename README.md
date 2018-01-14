@@ -1,0 +1,1 @@
+Simple Boiler Plate for a Babel/Webpack Project
